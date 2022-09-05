@@ -1,7 +1,6 @@
 package adi.art.sfgpetclinic.model;
 
 import java.time.LocalDate;
-import java.util.Locale;
 
 public class Pet {
     private PetType petType;
